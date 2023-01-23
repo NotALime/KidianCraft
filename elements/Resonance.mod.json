@@ -3,7 +3,7 @@
   "_type": "musicdisc",
   "definition": {
     "name": "Resonance",
-    "texture": "disc_resonance",
+    "texture": "home_resonance_disc",
     "description": "resonance oh em gee",
     "creativeTab": {
       "value": "MISC"
