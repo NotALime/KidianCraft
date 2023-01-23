@@ -1,0 +1,11 @@
+{
+  "resonance": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "kidiancraft:home_-_resonance",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Resonance",
+    "texture": "disc_resonance",
+    "description": "resonance oh em gee",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:resonance"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}
